@@ -233,12 +233,12 @@ body{
 /* Mailchimp================================================================================ */
 form #mce-success-response{
   background: green;
-  display: inline-block;
+  display: block;
   text-align: center;
   color: white;
   border-radius: 5px;
-  margin: 2px;
-  padding: 2px;     
+  margin: 5px;
+  padding: 5px;     
   transition: 1s;
 }
 
