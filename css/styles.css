@@ -236,7 +236,8 @@ form #mce-success-response{
   display: block;
   text-align: center;
   color: white;
-  border-radius: 12px;
+  border-radius: 5px;
+  margin: 2px;
   transition: 1s;
 }
 
